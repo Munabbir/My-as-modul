@@ -1,0 +1,32 @@
+section{
+    display: flex;
+}
+.bannar-contenar{
+     margin: 100px;
+}
+.bannar-imgS img{
+    width: 650px;
+}
+.taitel{
+    color: rgb(85, 85, 85);
+    font-weight: bold;
+    font-size: 70px;
+}
+#taotel-speshal{
+    color: rgb(251, 162, 79, 100%);
+}
+.para{
+    color: grey;
+    font-size: 30px;
+}
+.btn{
+    text-decoration: none;
+    font-weight: 700;
+    background-color: rgb(251, 162, 79, 100%);
+    color: white;
+    font-size: 25px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 16px;
+    display: inline-block;
+    margin-top: 30px;
+}
