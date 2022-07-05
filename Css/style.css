@@ -1,4 +1,4 @@
-section{
+.sec-won{
     display: flex;
 }
 .bannar-contenar{
@@ -30,3 +30,34 @@ section{
     display: inline-block;
     margin-top: 30px;
 }
+
+
+.sec-tow{
+    display: flex;
+    background-image: url(../img/Backgrund.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.com-width{
+    width: 100%;
+    margin-left: 12%;
+}
+.sec-img img{
+    max-width: 60%;
+    padding: 30px;
+    margin-top: 64px
+}
+.sec-tow-taitel{
+    padding: 100px;
+}
+.taitel1{
+    font-weight: 700;
+    font-size: 50px;
+    
+}
+.sec-tow-taitel p{
+    font-size: 18px;
+    color: rgb(85, 85, 85);
+}
+ 
